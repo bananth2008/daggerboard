@@ -18,7 +18,7 @@ django-rq==2.5.1
 Django==3.2.10
 idna==3.2
 libsass==0.21.0
-lxml==4.7.1
+lxml==4.9.1
 mariadb==1.0.9
 mysqlclient==2.0.3
 numpy==1.21.3
